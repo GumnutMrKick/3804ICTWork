@@ -1,0 +1,3 @@
+quarter,department,day,team,targeted_productivity,standard_minute_value,work_in_progress,over_time,incentive,idle_time,idle_men,no_of_style_change,no_of_workers,actual_productivity
+Quarter2,finishing,Saturday,9,0.65 - 0.80,2.90 - 13.23,0,0 - 5184,0 - 720,0 - 60,0 - 9,0,2.0 - 19.4,0.23 - 0.38
+Quarter3,finishing,Wednesday,3,0.36 - 0.50,2.90 - 13.23,0,0 - 5184,0 - 720,0 - 60,0 - 9,0,2.0 - 19.4,0.23 - 0.38
